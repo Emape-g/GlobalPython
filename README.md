@@ -2,8 +2,7 @@
 # Este es un proyecto que Simula la mutacion del ADN en Python 
 Para poder ejecutar este codigo,clonamos el repositorio de git/hub en python y iniciamos el ejecutable
 
-Los Outputs que podemos esperar en el codigo son los siguientes:
-
+Los Outputs que podemos esperar en el codigo son los siguientes:  
 Al iniciar el codigo nos pedira que coloquemos una matriz de 6 caracteres,los unicos permitidos son (A,T,C,G),si ingresamos un caracter distinto el nos dara un error pidiendo que unicamente se usean los caracteres antes dichos 
 
 Luego de colocar la matriz se te aparecen 4 opciones 1-Detectar mutaciones, 2-Crear mutacion, 3-Sanar ADN, 4-Salir.
