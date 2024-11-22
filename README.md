@@ -3,7 +3,7 @@
 Para poder ejecutar este codigo,clonamos el repositorio de git/hub en python y iniciamos el ejecutable
 
 **Los Outputs que podemos esperar en el codigo son los siguientes:**  
-Al iniciar el codigo nos pedira que coloquemos una matriz de 6 caracteres,los unicos permitidos son (A,T,C,G),si ingresamos un caracter distinto nos dara un error pidiendo que unicamente se usean los caracteres antes dichos 
+Al iniciar el codigo nos pedira que coloquemos una matriz de 6 caracteres,los unicos permitidos son (A,T,C,G),si ingresamos un caracter distinto nos dara un error pidiendo que unicamente se usen los caracteres antes dichos 
 
 Luego de colocar la matriz el codigo da 4 opciones **1-Detectar mutaciones, 2-Crear mutacion, 3-Sanar ADN, 4-Salir.**  
 **Si colocamos 1**,el codigo verificara si tenemos alguna Mutacion,si es asi.El programa nos devolvera un si y nos dara la opcion de continuar  
