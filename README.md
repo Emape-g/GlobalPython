@@ -1,5 +1,5 @@
 # GlobalPython
-# Este es un proyecto que Simula la mutacion del ADN en Python 
+# Este es un proyecto que Simula la mutacion de ADN en Python 
 Para poder ejecutar este codigo,clonamos el repositorio de git/hub en python y iniciamos el ejecutable
 
 **Los Outputs que podemos esperar en el codigo son los siguientes:**  
